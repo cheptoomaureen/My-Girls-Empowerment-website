@@ -3,13 +3,12 @@
 ### Author : Maureen Cheptoo March 17th 2024
 ****
 ## Project Description
-This is to share my site in the mentorship of girls and their empowerement,how to contact me,and a how to log in to the program and all about the program.At the end there is a popup button which shares more about what we do.
+This is to share my site on the mentorship of girls and their empowerement,how to contact me,and a how to log in to the program and all about the program.At the end there is a pop up button which shares more about what we do.
 ******
 
 ## SCREENSHOTS
-- <img width="761" alt=" (https://github.com/cheptoomaureen/My-Girls-Empowerment-website/assets/162347797/115c0a4c-50d0-45ec-afe2-d58ea1063cbb)">
-          " src="
-(https://github.com/cheptoomaureen/My-Girls-Empowerment-website/assets/162347797/115c0a4c-50d0-45ec-afe2-d58ea1063cbb)">
+- <img width="761" alt=" (https://github.com/cheptoomaureen/My-Girls-Empowerment-website/assets/162347797/115c0a4c-50d0-45ec-afe2-d58ea1063cbb)">src=
+"(https://github.com/cheptoomaureen/My-Girls-Empowerment-website/assets/162347797/115c0a4c-50d0-45ec-afe2-d58ea1063cbb)">
 
 
 
