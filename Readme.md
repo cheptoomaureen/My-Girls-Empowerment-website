@@ -7,7 +7,8 @@ This is to share my site in the mentorship of girls and their empowerement,how t
 ******
 
 ## SCREENSHOTS
-- <img width="761" alt="Screenshot 2024-03-15 at 10 49 44 AM" src="
+- <img width="761" alt=" (https://github.com/cheptoomaureen/My-Girls-Empowerment-website/assets/162347797/115c0a4c-50d0-45ec-afe2-d58ea1063cbb)">
+          " src="
 (https://github.com/cheptoomaureen/My-Girls-Empowerment-website/assets/162347797/115c0a4c-50d0-45ec-afe2-d58ea1063cbb)">
 
 
