@@ -37,7 +37,7 @@ This is to share my site in the mentorship of girls and their empowerement,how t
 > Run using live server
 *****
 ## Live Link
-Or you can access the web application directly via this [https://vikingsvariable.netlify.app/](https://vikingsvariable.netlify.app/)
+Or you can access the web application directly via this [ https://65f6ed8cdb10028a5d8990ad--fascinating-stardust-3756e4.netlify.app/ ](https://65f6ed8cdb10028a5d8990ad--fascinating-stardust-3756e4.netlify.app/ )
 *****
 ## Dependencies
 - Google fonts
