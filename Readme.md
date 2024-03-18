@@ -3,7 +3,7 @@
 ### Author : Maureen Cheptoo March 17th 2024
 ****
 ## Project Description
-This is to share my site on the mentorship of girls and their empowerement,how to contact me,and a how to log in to the program and all about the program.At the end there is a pop up button which shares more about what we do.
+This is to share my site on the mentorship of girls and their empowerement,how to contact me,and how to log in to the program and all about the program.At the end there is a pop up button which shares more about what I do.
 ******
 
 ## SCREENSHOTS
